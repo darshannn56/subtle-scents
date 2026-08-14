@@ -401,7 +401,6 @@ function Index() {
           ))}
         </ul>
         <p className="mt-12 text-xs text-muted-foreground">
-          Placeholder reviews — to be replaced with real customer reviews.
         </p>
       </section>
 
